@@ -1,0 +1,11 @@
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Skill Check 1\Skill Check 1\bin\Debug\netcoreapp2.1\Skill Check 1.deps.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Skill Check 1\Skill Check 1\bin\Debug\netcoreapp2.1\Skill Check 1.runtimeconfig.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Skill Check 1\Skill Check 1\bin\Debug\netcoreapp2.1\Skill Check 1.runtimeconfig.dev.json
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Skill Check 1\Skill Check 1\bin\Debug\netcoreapp2.1\Skill Check 1.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Skill Check 1\Skill Check 1\bin\Debug\netcoreapp2.1\Skill Check 1.pdb
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Skill Check 1\Skill Check 1\obj\Debug\netcoreapp2.1\Skill Check 1.csprojAssemblyReference.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Skill Check 1\Skill Check 1\obj\Debug\netcoreapp2.1\Skill Check 1.csproj.CoreCompileInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Skill Check 1\Skill Check 1\obj\Debug\netcoreapp2.1\Skill Check 1.AssemblyInfoInputs.cache
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Skill Check 1\Skill Check 1\obj\Debug\netcoreapp2.1\Skill Check 1.AssemblyInfo.cs
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Skill Check 1\Skill Check 1\obj\Debug\netcoreapp2.1\Skill Check 1.dll
+C:\Users\jd0919889\OneDrive - Ozarks Technical Community College\C# Programs\Skill Check 1\Skill Check 1\obj\Debug\netcoreapp2.1\Skill Check 1.pdb
